@@ -1,14 +1,64 @@
-{
-  "name": "Brahian Maidana",
-  "role": "Software Engineer",
-  "team": "Platform",
-  "level": 2,
-  "progress": 0.68,
-  "skills": ["JavaScript", "Html", "UI Design", "SQL Programming", "Databases"],
-  "achievements": 
-  [
-    "Completed Project Atlas",
-    "Mentored 2 junior devs",
-    "30-day learning streak"
-  ]
-}
+[
+  {
+    "id": "mom",
+    "name": "Silvana Dollanarte",
+    "role": "Operations",
+    "team": "Family",
+    "level": 100,
+    "progress": 100.00,
+    "photo": "images/mom.jpg",
+    "skills": ["Planning", "Organization", "Communication"],
+    "achievements": 
+    [
+      "Completed weekly planning streak",
+      "Hit 10 household projects",
+      "30-day consistency streak"
+    ]
+  },
+  {
+    "id": "dad",
+    "name": "Luis Maidana",
+    "role": "Problem Solver",
+    "team": "Family",
+    "level": 100,
+    "progress": 100.00,
+    "photo": "images/dad.jpg",
+    "skills": ["Fixing", "Reliability", "Planning"],
+    "achievements": 
+    [
+      "Finished a big repair project",
+      "Helped 3 people this week",
+      "Consistency milestone reached"
+    ]
+  },
+  {
+    "id": "brother",
+    "name": "Gean Maidana",
+    "role": "Creative Builder",
+    "team": "Family",
+    "level": 80,
+    "progress": 0.34,
+    "photo": "images/brother.jpg",
+    "skills": ["Creativity", "Learning", "Ideas"],
+    "achievements": [
+      "Started a new skill track",
+      "Completed 5 practice sessions",
+      "First milestone unlocked"
+    ]
+  },
+  {
+    "id": "you",
+    "name": "Brahian Maidana",
+    "role": "IT / Web Dev Student",
+    "team": "Personal",
+    "level": 2,
+    "progress": 0.62,
+    "photo": "images/you.jpg",
+    "skills": ["HTML/CSS", "JavaScript", "SQL"],
+    "achievements": [
+      "Built Glass UI prototype",
+      "Completed database assignments",
+      "Kept building momentum"
+    ]
+  }
+]
