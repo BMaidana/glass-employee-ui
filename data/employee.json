@@ -1,0 +1,14 @@
+{
+  "name": "Brahian Maidana",
+  "role": "Software Engineer",
+  "team": "Platform",
+  "level": 2,
+  "progress": 0.68,
+  "skills": ["JavaScript", "Html", "UI Design", "SQL Programming", "Databases"],
+  "achievements": 
+  [
+    "Completed Project Atlas",
+    "Mentored 2 junior devs",
+    "30-day learning streak"
+  ]
+}
